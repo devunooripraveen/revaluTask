@@ -3,6 +3,9 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
+k8s
+minikube-linux-amd64
+Dockerfile
 
 ### STS ###
 .apt_generated
